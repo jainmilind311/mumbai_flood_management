@@ -12,3 +12,4 @@ For eg:
 2. To prevent as far as possible the seperation of a victim group: eg: If a group of friends or family is stuck at a place then our algrithm will try to allocate the same shelter to all of them.e 
 
 The web portal will be based upon the algorithm that will take abovementioned parameters in consideration, aiming to prevent loss of human life as far as possible.The idea is scalable and can be easily modified and applied to other similar scenarios.
+Eidted ---
